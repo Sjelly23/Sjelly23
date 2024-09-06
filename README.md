@@ -1,7 +1,7 @@
 ```json
 {
   "country": "Australia",
-  "coding skills": "little to none",
+  "coding skills": "A bit of html",
   "likes": ["space", "coding", "making games"],
   "yes": "yes",
   "no": "yes",
